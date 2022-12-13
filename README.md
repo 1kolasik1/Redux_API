@@ -2,6 +2,8 @@
 
 Multi-page application app with Redux
 
+![project](./redux.gif)
+
 ## Technologies
 
 * React
